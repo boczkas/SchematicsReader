@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/PDFBox/opencv/build/java/opencv-320.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/build/java/x64" />
+        </NATIVE>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/PDFBox/opencv/build/java/opencv-320.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/PDFBox" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Downloads/PDFBox/commons-logging-1.2-bin/commons-logging-1.2/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/modules/java/android_test/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/modules/java/common_test/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/modules/java/pure_test/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/platforms/android/service/engine/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/15-puzzle/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/camera-calibration/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/color-blob-detection/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/face-detection/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/image-manipulations/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/tutorial-1-camerapreview/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/tutorial-2-mixedprocessing/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/tutorial-3-cameracontrol/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/android/tutorial-4-opencl/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/java" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/java/ant/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/java/eclipse/HelloCV/src" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/java/sbt/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/java/tutorial_code/core/mat_mask_operations" />
+          <root url="file://$USER_HOME$/Downloads/PDFBox/opencv/sources/samples/java/tutorial_code/introduction/documentation" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/PDFBox" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/javacpp-presets-platform-1.3-bin/javacpp-presets-bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/javacpp-presets-platform-1.3-bin/javacpp-presets-bin" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/javacv-platform-1.3-bin/javacv-bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/javacv-platform-1.3-bin/javacv-bin" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/Tess4J/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/Tess4J/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Tess4J/dist/tess4j-3.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
